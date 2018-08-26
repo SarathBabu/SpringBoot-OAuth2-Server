@@ -1,0 +1,30 @@
+.app-heading {
+	background: #000;
+	background-repeat: repeat;
+	height: 140px;
+}
+
+.app-heading .header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	background: #000;
+	background-repeat: repeat;
+	height: 140px;
+	color: white;
+}
+
+
+.app-content {
+	width: 1240px;
+	margin: auto;
+}
+
+.app-content h1 {
+	font-weight: 600;
+}
+
+
+.main {
+	padding-top: 20px;
+}
